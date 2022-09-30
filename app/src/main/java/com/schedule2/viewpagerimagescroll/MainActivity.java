@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         viewPager2 = findViewById((R.id.viewpager));
         int[] images = {R.drawable.a,R.drawable.b,R.drawable.c,R.drawable.d,R.drawable.e,R.drawable.f,R.drawable.g};
-        String[] heading = {"Ostrich","Tiger","Gazelle","Monkey","Kung fu Panda","Chameleon","Giraffe","Squirrel"};
+        String[] heading = {"Ostrich Squad","Tigger","Fast Gazelle","Monkey D Luffy","Kung fu Panda","Chamellionaire","Tall Giraffe","Nimble Squirrel"};
         String[] desc = {getString(R.string.a_desc),
                 getString(R.string.b_desc),
                 getString(R.string.c_desc),
