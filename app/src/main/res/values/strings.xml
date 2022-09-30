@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewpagerImageScroll</string>
+    <string name="a_desc"> When threatened ostriches run although their powerful, long legs can be formidable weapons, capable of killing a human or a potential predator like a lion with a forward kick. </string>
+    <string name="b_desc"> The tiger is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates, such as deer and wild boar. </string>
+    <string name="c_desc"> Gazelles rely on their speed to escape from predators. Gazelles can reach speeds up to 60 mph in short bursts and sustain speeds of 30 to 40 mph. When running, gazelles use a bounding leap, called "pronking" or "stotting," which involves stiffly springing into the air with all four feet.  </string>
+    <string name="d_desc"> Monkeys eat nuts, fruits, seeds, and flowers. Some monkeys also eat meat like bird eggs, small animals like lizards, small insects and spiders. </string>
+    <string name="e_desc"> A panda’s diet is 99% vegetarian, which mostly includes bamboo roots, stems, shoots and leaves. However their digestive system is typical of a carnivore, so the remaining 1% of their diet can include eggs, small animals and carrion. </string>
+    <string name="f_desc"> Excluding their tail, some chameleons tongues can be twice the length of their body. Their tongues consist of both muscles and bones, and can bend round to grab their pray. </string>
+    <string name="g_desc"> The giraffe is the tallest mammal in the world. Even newborn giraffe are taller than most humans. Female giraffe give birth standing up. Their young fall about 2 m to the ground and can stand up within an hour of birth </string>
+    <string name="h_desc"> When squirrels feel threatened, they run away in a zigzag pattern. This is an incredibly useful strategy to escape hawks and other predators. Unfortunately, it does not work so well on cars. </string>
+</resources>
